@@ -1,2 +1,2 @@
-# Detecci-n-de-C-ncer-de-Piel-
+# Detección de Cáncer de Piel-
 Lunares Malignos (Mediante imágenes)
